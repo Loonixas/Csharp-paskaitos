@@ -40,7 +40,6 @@ namespace aaa
         }
     }
 
-
     class Knygynas
     {
         public string Pavadinimas { get; private set; }
@@ -86,9 +85,6 @@ namespace aaa
             return didziausia;
         }
     }
-
-
-
 
     class MainClass
     {
